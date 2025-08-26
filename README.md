@@ -4,7 +4,7 @@ This repository documents my journey learning **Ruby**, from the basics to Objec
 
 ## 📌 Topics covered
 1. **Basics**
-   - Syntax, variables, loops, conditionals, arrays, and hashes.
+   - Syntax, variables, inputs, loops, conditionals, arrays, and hashes.
 2. **Intermediate**
    - Methods, modules, mixins, exceptions, and file handling.
 3. **Object-Oriented Programming**
